@@ -1,5 +1,5 @@
 charac=input()
 if charac.isdigit():
- print("Yes")
+ print("yes")
 else:
  print("No")
